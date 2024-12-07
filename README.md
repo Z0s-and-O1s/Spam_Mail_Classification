@@ -13,7 +13,7 @@ Follow these steps to set up and run the project on your machine:
 
 1. **Clone the repository** (if you have the project on GitHub):
     ```bash
-    git clone https://github.com/your-username/spam-email-classification.git
+    git clone https://github.com/Z0s-and-O1s/Spam_Mail_Classification
     ```
 
 2. **Set up a Virtual Environment**:
